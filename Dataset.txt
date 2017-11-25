@@ -1,0 +1,8 @@
+X, matrix, alien, star_wars, csablanca, titanic
+joe, 1,1,1,0,0
+jim, 3,3,3,0,0
+john,4,4,4,0,0
+jack,5,5,5,0,0
+jill, 0,0,0,4,4
+jenny, 0,0,0,5,5
+jane, 0,0,0,2,2
